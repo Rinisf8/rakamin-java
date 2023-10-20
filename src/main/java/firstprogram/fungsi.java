@@ -11,7 +11,7 @@ public class fungsi {
         int v = 5;
 
         Namaku.Rini("Rini Siti Fatonah");
-        hasil.printNama("Beda Package");
+        hasil.printNama("Contoh Git");
 
         tambah(x,y);
         tambah(x,z);
